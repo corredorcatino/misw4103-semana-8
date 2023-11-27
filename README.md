@@ -1,1 +1,2 @@
-# misw4103-semana-8
+# Equipo <TBD>
+- GIANCARLO CORREDOR CATINO - g.corredor2@uniandes.edu.co
